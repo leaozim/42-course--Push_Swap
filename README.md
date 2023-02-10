@@ -5,7 +5,7 @@
 ## Introduction 
 This project involves sorting data from a stack, with a limited set of instructions and the fewest moves.
 
-## Challenge
+## General Description
 Sort a random list of integers using the smallest number of moves, 2 stacks
 and a limited set of operations. 
 You start with two empty stacks: **a** and **b**. You are given a random list of integers via command line arguments.
